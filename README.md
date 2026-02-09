@@ -54,9 +54,8 @@ Projeto criado com o objetivo de praticar conceitos de back-end, organização d
 
 As rotas podem ser testadas utilizando ferramentas como:
 
-Postman
-
-Insomnia
+- Postman
+- Insomnia
 
 
 ---
@@ -68,9 +67,7 @@ Os dados são perdidos sempre que o servidor é reiniciado.
 
 Em versões futuras, o projeto pode ser evoluído com:
 
-Banco de dados (SQLite / PostgreSQL)
-
-Autenticação
-
-Atualização e remoção de usuários (PUT / DELETE)
+- Banco de dados (SQLite / PostgreSQL)
+- Autenticação
+- Atualização e remoção de usuários (PUT / DELETE)
 
