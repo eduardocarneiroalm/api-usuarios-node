@@ -47,7 +47,7 @@ Projeto criado com o objetivo de praticar conceitos de back-end, organização d
   3. npm install -D @types/node
   4. npm install -D @types/express
 
-  # Inicie o servidor em modo desenvolvimento
+  ### Inicie o servidor em modo desenvolvimento
   npm run dev
 
 ## 🧪 Testes
