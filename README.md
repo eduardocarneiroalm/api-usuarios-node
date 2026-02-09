@@ -50,7 +50,7 @@ Projeto criado com o objetivo de praticar conceitos de back-end, organização d
   # Inicie o servidor em modo desenvolvimento
   npm run dev
 
-##🧪 Testes
+## 🧪 Testes
 
 As rotas podem ser testadas utilizando ferramentas como:
 
@@ -61,7 +61,7 @@ Insomnia
 
 ---
 
-##📚 Observações
+## 📚 Observações
 
 Este projeto utiliza armazenamento em memória (array).
 Os dados são perdidos sempre que o servidor é reiniciado.
