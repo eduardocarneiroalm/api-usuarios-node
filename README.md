@@ -49,12 +49,12 @@ Projeto criado com o objetivo de praticar conceitos de back-end, organização d
   cd api-usuarios-node
 
   #### Instale as dependências
-  
+  ```
   1. npm install
   2. npm install -D typescript tsx
   3. npm install -D @types/node
   4. npm install -D @types/express
-
+  ```
   ### Inicie o servidor em modo desenvolvimento
   npm run dev
 
