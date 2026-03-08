@@ -49,9 +49,6 @@ Projeto criado com o objetivo de praticar conceitos de back-end, organização d
   cd api-usuarios-node
 
   #### Instale as dependências
-  ```
-npm install
- ```
 ```
 npm install -D typescript tsx
 ```
