@@ -60,7 +60,9 @@ npm install -D @types/express
 ```
   
   ### Inicie o servidor em modo desenvolvimento
+  ```
   npm run dev
+```
 
 <br/>
 
