@@ -48,7 +48,7 @@ Projeto criado com o objetivo de praticar conceitos de back-end, organização d
   #### Acesse a pasta do projeto
   ```
   cd api-usuarios-node
-```
+  ```
 
   #### Instale as dependências
 ```
