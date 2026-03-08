@@ -1,6 +1,6 @@
 # API de Usuários
 
-API REST desenvolvida em **Node.js** e **TypeScript** para gerenciamento de usuários.  
+API REST desenvolvida em **Node.js** + **TypeScript** para gerenciamento de usuários.  
 Projeto criado com o objetivo de praticar conceitos de back-end, organização de rotas e tipagem com TypeScript.
 
 <br/>
