@@ -3,6 +3,7 @@
 API REST desenvolvida em **Node.js** e **TypeScript** para gerenciamento de usuários.  
 Projeto criado com o objetivo de praticar conceitos de back-end, organização de rotas e tipagem com TypeScript.
 
+<br/>
 
 ---
 
@@ -14,6 +15,7 @@ Projeto criado com o objetivo de praticar conceitos de back-end, organização d
 - Validação de dados
 - Retorno de status HTTP apropriados
 
+<br/>
 
 ---
 
@@ -23,6 +25,8 @@ Projeto criado com o objetivo de praticar conceitos de back-end, organização d
 - Express
 - TypeScript
 
+<br/>
+
 ---
 
 ## ▶ como iniciar o projeto
@@ -31,13 +35,16 @@ Projeto criado com o objetivo de praticar conceitos de back-end, organização d
 - Node.js instalado
 - NPM ou Yarn
 
+<br/>
+
 ---
 
 
  ## ⚙️ Passo a passo para rodar localmente
   #### Clone o repositório
+  ```
   git clone https://github.com/eduardocarneiroalm/api-usuarios-node.git
-
+  ```
   #### Acesse a pasta do projeto
   cd api-usuarios-node
 
@@ -51,6 +58,8 @@ Projeto criado com o objetivo de praticar conceitos de back-end, organização d
   ### Inicie o servidor em modo desenvolvimento
   npm run dev
 
+<br/>
+
 ## 🧪 Testes
 
 As rotas podem ser testadas utilizando ferramentas como:
@@ -58,6 +67,7 @@ As rotas podem ser testadas utilizando ferramentas como:
 - Postman
 - Insomnia
 
+<br/>
 
 ---
 
