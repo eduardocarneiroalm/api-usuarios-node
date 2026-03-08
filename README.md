@@ -46,7 +46,9 @@ Projeto criado com o objetivo de praticar conceitos de back-end, organização d
   git clone https://github.com/eduardocarneiroalm/api-usuarios-node.git
   ```
   #### Acesse a pasta do projeto
+  ```
   cd api-usuarios-node
+```
 
   #### Instale as dependências
 ```
